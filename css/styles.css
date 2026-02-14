@@ -243,6 +243,10 @@ nav a:hover::after {
 
 @media (min-width: 1024px) {
 
+  .nav a {
+    font-size: 1;
+    }
+
   .hero {
     height: 80vh;
     display: flex;
@@ -317,5 +321,6 @@ nav a:hover::after {
 #toast.error {
   background: #dc2626;
 }
+
 
 
