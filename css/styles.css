@@ -223,7 +223,7 @@ nav a {
   text-decoration: none;
   color: whitesmoke;
   font-weight: 500;
-  font-size: 0.8;
+  font-size: 10px;
 }
 
 nav a::after {
@@ -317,4 +317,5 @@ nav a:hover::after {
 #toast.error {
   background: #dc2626;
 }
+
 
